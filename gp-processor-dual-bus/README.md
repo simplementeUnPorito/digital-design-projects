@@ -70,8 +70,7 @@ Open the `.cct` files with LogicWorks 5 (datapath and control unit). The VHDL fi
 
 ### Status
 - Complete: ISA, instruction format, datapath, ASM chart, control-unit structure and signal table, Booth program.
-- Hardware: implemented and validated on a Digilent Zybo (Zynq-7000) board. The final source revision and the board constraint file (.xdc) were not preserved.
-- The archived VHDL is an earlier snapshot: the behavioral model covers reset, interrupt entry, fetch and part of the execute cycles; the structural description is a draft.
+- Design and simulation: the behavioral model covers reset, interrupt entry, fetch and part of the execute cycles; the structural description is a draft.
 
 ### Team & credits
 Designed and written by Elías David Álvarez Martínez, Universidad Católica "Nuestra Señora de la Asunción" (Paraguay), 2024. The reference datapath template and the "register + decoder" control-unit requirement came from the supervising instructor.
@@ -97,8 +96,7 @@ Primer byte: `b7-b6` cantidad de operandos, `b5-b3` instrucción, `b2` modo, `b1
 
 ### Estado
 - Completo: ISA, formato, ruta de datos, ASM, estructura y tabla de señales de la unidad de control, programa de Booth.
-- Hardware: implementado y validado en una placa Digilent Zybo (Zynq-7000). La revisión final de las fuentes y el archivo de restricciones (.xdc) no se conservaron.
-- El VHDL archivado es una versión anterior: el modelo de comportamiento cubre reinicio, interrupción, búsqueda y parte de la ejecución; la descripción estructural es un borrador.
+- Diseño y simulación: el modelo de comportamiento cubre reinicio, interrupción, búsqueda y parte de la ejecución; la descripción estructural es un borrador.
 
 ### Equipo y créditos
 Diseñado y redactado por Elías David Álvarez Martínez, Universidad Católica "Nuestra Señora de la Asunción" (Paraguay), 2024. La ruta de datos de referencia y el requisito de unidad de control con registro y decodificador provienen del docente supervisor.

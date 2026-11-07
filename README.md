@@ -15,7 +15,7 @@ Three register-transfer-level digital designs, each taken from specification to 
 | [`led-sequence-controller`](led-sequence-controller) | Moore sequence detector (12 states) driving a 5-state LED pattern controller, minimized by state partitions and implemented with JK flip-flops | Visual Automata Simulator, LogicWorks |
 
 ### Honest scope
-The 8-bit processor was implemented and validated by the author on a Digilent Zybo FPGA board; the board constraints and the final source revision were not preserved, so this repository holds the design documentation and an earlier source snapshot. The Booth multiplier and the LED controller are design and simulation projects. Each project README states what is complete and what is a draft.
+These are design and simulation projects. Each project README states what is complete and what is a draft.
 
 ### Team & credits
 Designed and written by Elías David Álvarez Martínez at Universidad Católica "Nuestra Señora de la Asunción" (Paraguay), 2023–2024. Reports and figures are shared for reference.
@@ -35,7 +35,7 @@ Tres diseños digitales a nivel de transferencia de registros, llevados desde la
 | [`led-sequence-controller`](led-sequence-controller) | Detector de secuencias de Moore (12 estados) que gobierna un controlador de LEDs de 5 estados, minimizado por particiones y con flip-flops JK | Visual Automata Simulator, LogicWorks |
 
 ### Alcance
-El procesador de 8 bits fue implementado y validado por el autor en una placa FPGA Digilent Zybo; las restricciones de placa y la revisión final de las fuentes no se conservaron, por lo que este repositorio contiene la documentación del diseño y una versión anterior de las fuentes. El multiplicador de Booth y el controlador de LEDs son proyectos de diseño y simulación. Cada README indica qué está completo y qué es borrador.
+Son proyectos de diseño y simulación. Cada README indica qué está completo y qué es borrador.
 
 ### Equipo y créditos
 Diseñado y redactado por Elías David Álvarez Martínez en la Universidad Católica "Nuestra Señora de la Asunción" (Paraguay), 2023–2024. Los informes y figuras se comparten como referencia.

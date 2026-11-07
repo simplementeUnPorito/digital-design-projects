@@ -6,7 +6,7 @@
 ## English
 
 ### Overview
-Three register-transfer-level digital designs, each taken from specification to algorithmic state machine (ASM), datapath, control unit and simulation: a general-purpose 8-bit processor with a dual-bus datapath, a parameterizable signed Booth multiplier in VHDL, and a two-machine sequential controller for an LED pattern generator built from flip-flops and gates.
+This repository contains three register-transfer-level digital designs. Each proceeds from its specification to an algorithmic state machine (ASM), datapath, control unit and simulation: a general-purpose 8-bit processor with a dual-bus datapath, a parameterizable signed Booth multiplier in VHDL, and a two-machine sequential controller for an LED pattern generator built from flip-flops and gates.
 
 | Project | What it is | Tools |
 |---|---|---|
@@ -26,7 +26,7 @@ MIT, see [LICENSE](LICENSE).
 ## Español
 
 ### Descripción
-Tres diseños digitales a nivel de transferencia de registros, llevados desde la especificación hasta el diagrama ASM, la ruta de datos, la unidad de control y la simulación: un procesador de propósito general de 8 bits con ruta de datos de doble bus, un multiplicador de Booth con signo parametrizable en VHDL y un controlador secuencial de dos máquinas para un generador de patrones de LEDs con flip-flops y compuertas.
+Este repositorio contiene tres diseños digitales a nivel de transferencia de registros. Cada uno parte de la especificación y llega al diagrama ASM, la ruta de datos, la unidad de control y la simulación: un procesador de propósito general de 8 bits con ruta de datos de doble bus, un multiplicador de Booth con signo parametrizable en VHDL y un controlador secuencial de dos máquinas para un generador de patrones de LEDs con flip-flops y compuertas.
 
 | Proyecto | Qué es | Herramientas |
 |---|---|---|

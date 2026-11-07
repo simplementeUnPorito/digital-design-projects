@@ -34,11 +34,11 @@ Este repositorio contiene tres diseños digitales a nivel de transferencia de re
 | [`booth-multiplier-vhdl`](booth-multiplier-vhdl) | Multiplicador con signo (Booth) con arreglos de registros, un sumador y unidad de control con contador y multiplexor; ancho de operando genérico | VHDL, simulador de Vivado, LogicWorks |
 | [`led-sequence-controller`](led-sequence-controller) | Detector de secuencias de Moore (12 estados) que gobierna un controlador de LEDs de 5 estados, minimizado por particiones y con flip-flops JK | Visual Automata Simulator, LogicWorks |
 
-### Alcance
-Son proyectos de diseño y simulación. Cada README indica qué está completo y qué es borrador.
+### Alcance real
+Estos son proyectos de diseño y simulación. El README de cada proyecto indica qué está completo y qué permanece como borrador.
 
 ### Equipo y créditos
-Diseñado y redactado por Elías David Álvarez Martínez en la Universidad Católica "Nuestra Señora de la Asunción" (Paraguay), 2023–2024. Los informes y figuras se comparten como referencia.
+Diseñado y redactado por Elías David Álvarez Martínez en la Universidad Católica "Nuestra Señora de la Asunción" (Paraguay), 2023 a 2024. Los informes y figuras se comparten como referencia.
 
 ### Licencia
 MIT, ver [LICENSE](LICENSE).

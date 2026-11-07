@@ -1,6 +1,6 @@
 <p align="center"><img src="docs/img/banner.svg" width="100%" alt="Digital Design Projects"></p>
 
-<p align="center"><img src="https://img.shields.io/badge/VHDL-RTL-1f6feb"> <img src="https://img.shields.io/badge/Vivado-simulation-orange"> <img src="https://img.shields.io/badge/LogicWorks-74LS-informational"> <img src="https://img.shields.io/badge/FSM-ASM_charts-555"> <img src="https://img.shields.io/badge/License-MIT-lightgrey"></p>
+<p align="center"><img src="https://img.shields.io/badge/Year-2023--2024-555"> <img src="https://img.shields.io/badge/VHDL-RTL-1f6feb"> <img src="https://img.shields.io/badge/Vivado-simulation-orange"> <img src="https://img.shields.io/badge/LogicWorks-74LS-informational"> <img src="https://img.shields.io/badge/FSM-ASM_charts-555"> <img src="https://img.shields.io/badge/License-MIT-lightgrey"></p>
 <p align="center"><a href="#english">English</a> · <a href="#español">Español</a></p>
 
 ## English
